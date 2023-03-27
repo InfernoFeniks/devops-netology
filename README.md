@@ -17,3 +17,4 @@ Change file README.md
 - Игнорируются все файлы, названия которых попадает под выражения `*_override.tf` и `*_override.tf.json`
 - Игнорируются все файлы `.terraformrc` и `terraform.rc`
 
+Add new line for lesson 14.2 task 3
