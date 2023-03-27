@@ -18,3 +18,5 @@ Change file README.md
 - Игнорируются все файлы `.terraformrc` и `terraform.rc`
 
 Add new line for lesson 14.2 task 3
+
+Add new line from IDE VSC
